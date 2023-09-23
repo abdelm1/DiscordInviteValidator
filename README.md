@@ -17,7 +17,7 @@ Follow these steps to get started with the Discord Invite Validator:
 
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/ZPIDERr/DiscordInviteValidator.git
    ```
   ```bash
    pip install -r requirements.txt
